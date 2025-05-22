@@ -1,0 +1,5 @@
+.env
+output/
+src/__pycache__
+*.docx
+.idea/
